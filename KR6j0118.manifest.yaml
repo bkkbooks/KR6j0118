@@ -1,0 +1,238 @@
+canonical_identifier: bkk:krp/KR6j0118/v1
+canonical_location: https://kanripo.org/bkk/KR6j0118/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+  identifiers:
+    alt_id:
+    - T19n0945
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0945.xml
+    old_id: T19n0945
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 磧乙-CB
+  label: 磧乙-CB
+  source_xml_id: wit4
+- short: 宮-CB
+  label: 宮-CB
+  source_xml_id: wit7
+- short: 嘉興乙-CB
+  label: 嘉興乙-CB
+  source_xml_id: wit8
+- short: 金藏乙-CB
+  label: 金藏乙-CB
+  source_xml_id: wit9
+- short: 嘉興丙-CB
+  label: 嘉興丙-CB
+  source_xml_id: wit12
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0118_000.yaml, hash: 'sha256:e931db7d3091da5b0af84daad838d572e6540017e9c712f18277439fd0ea743f'}
+  - {seq: 1, filename: KR6j0118_001.yaml, hash: 'sha256:6d5dfbbb82eb0685fd8647fe5820d62de68467bb7da5cc8ee100342cca966dce'}
+  - {seq: 2, filename: KR6j0118_002.yaml, hash: 'sha256:f0cd20c82f489fa812baae886afce31f2f78786b1380daba362a7b71e54af27b'}
+  - {seq: 3, filename: KR6j0118_003.yaml, hash: 'sha256:c53e71d3924b90abd85dfd8ff815cf2e0d8e3d010fbd38e80cfcc2f3250acb6b'}
+  - {seq: 4, filename: KR6j0118_004.yaml, hash: 'sha256:d3fbc3f16b951d69e05baaea284d5bf5f96e1b945b7a3ea86c4818634e229a03'}
+  - {seq: 5, filename: KR6j0118_005.yaml, hash: 'sha256:1cc66dcbf99a088d3fa24916760f6ec1f698ddf436bf8a82c2408b558d173c9b'}
+  - {seq: 6, filename: KR6j0118_006.yaml, hash: 'sha256:9cfa7b4c795225aaae67161e41f650b0fb0a60cd6eaee743f92762b3d37c55e4'}
+  - {seq: 7, filename: KR6j0118_007.yaml, hash: 'sha256:091e95d8e98b11fc41638f2471ca3b517c99f29ed51ca35ee77a017bd355e750'}
+  - {seq: 8, filename: KR6j0118_008.yaml, hash: 'sha256:23bf37c61c36db1d6569b25a8235b3cf83a31a010ab5fb3f81e9a9f3499e6f77'}
+  - {seq: 9, filename: KR6j0118_009.yaml, hash: 'sha256:aaa2357469177558534aa6d04dedac9adcea16484f39c7a3d8c60ad26aa97042'}
+  - {seq: 10, filename: KR6j0118_010.yaml, hash: 'sha256:507229fa22d3936d343eac143684bd3088b40d01624f2107dc6f100883562059'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0118_000.markers.yaml, hash: 'sha256:5de125bbe934c79a40a24613258ac6bcf292ab9ffe7d4740dfe0cc96addf620a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0118_001.markers.yaml, hash: 'sha256:56f8a868d710b599ab9e76cea3c46c03b750aad351b0169f9c5f9cc20e148d57'}
+  - {seq: 2, role: markers, filename: assets/KR6j0118_002.markers.yaml, hash: 'sha256:05956cf4546c18f952d2e163a1659b73b665414d0d80652f60e332847e64212a'}
+  - {seq: 3, role: markers, filename: assets/KR6j0118_003.markers.yaml, hash: 'sha256:add79134daa482eede5bdc7dfa9c635869c9a6b6bcfe3ac275f7305ae6342c38'}
+  - {seq: 4, role: markers, filename: assets/KR6j0118_004.markers.yaml, hash: 'sha256:3546432762bdd75e81037e47f501bfa84dfd1fb055869773be4c77350f5ea164'}
+  - {seq: 5, role: markers, filename: assets/KR6j0118_005.markers.yaml, hash: 'sha256:73bb8e9c1d855679116362d265b57cf9d9191ba8c74e63659171f891e45ad557'}
+  - {seq: 6, role: markers, filename: assets/KR6j0118_006.markers.yaml, hash: 'sha256:1812bdb7a60e042b79846191f0a2181a7193832b52a61d072cad6e96857497af'}
+  - {seq: 7, role: markers, filename: assets/KR6j0118_007.markers.yaml, hash: 'sha256:fef7771890f7f0c4633ebeaa5cbe86bb5810b3125604f3fe323bad86530a32bd'}
+  - {seq: 8, role: markers, filename: assets/KR6j0118_008.markers.yaml, hash: 'sha256:320283499d4b64323f971c059d3bb781703cc3f1649fcfa3fb8140555db44caa'}
+  - {seq: 9, role: markers, filename: assets/KR6j0118_009.markers.yaml, hash: 'sha256:54dcde5db394ff685bfde7d5a0aa90c8ab6873dd81f7796056a4f30508ff818b'}
+  - {seq: 10, role: markers, filename: assets/KR6j0118_010.markers.yaml, hash: 'sha256:d210ce326631c6c2e35d1f7d4c6e0f7a56704510da9232328c960fcd026ecee5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0118_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 新印大佛頂首楞嚴經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0118_T_000-mulu-2
+    span:
+    - front
+    - 340
+    - 340
+  label: 大佛頂如來萬行首楞嚴經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0118_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5122
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第一一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0118_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6476
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第二一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0118_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6607
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第三一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0118_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6741
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第四一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0118_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5433
+  label: '大佛頂如來密因修證了義諸菩
+
+    薩萬行首楞嚴經卷第五一名中印度那蘭陀大道
+
+    場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0118_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5640
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第六一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0118_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 14296
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第七一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0118_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6243
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第八一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0118_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7542
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第九一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0118_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5354
+  label: '大佛頂如來密因修證了義諸
+
+    菩薩萬行首楞嚴經卷第十一名中印度那蘭陀
+
+    大道場經，於灌頂部錄出別行'
+  type: juan
+  level: 1
+hash: sha256:bcc3c5551846db9d23655ebb1ac8f3e25b4d7b5ecd63c555d960e1dc1b3462db
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
