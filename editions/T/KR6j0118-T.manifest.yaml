@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0118_000-T.yaml, hash: 'sha256:fce1843769ed13fee29bb39e5503b3f4723f5f3d746d9b67493ab7f280651a05'}
+  - {seq: 0, filename: KR6j0118_000-T.yaml, hash: 'sha256:3e8f58768bf4088fb94c9cd2be9f96157e78b3ba54501be7f57b8e602c5c5bd2'}
   - {seq: 1, filename: KR6j0118_001-T.yaml, hash: 'sha256:846d04642164ddbd44c362f00253327ddb39dc8bef2d960209e3e3e954c9f2da'}
   - {seq: 2, filename: KR6j0118_002-T.yaml, hash: 'sha256:c671a963f556ca9a272950d74313574218f893790d15e715aad89db7cc388b85'}
   - {seq: 3, filename: KR6j0118_003-T.yaml, hash: 'sha256:e307a05fef0951591626bab2dc136c047c8251835c8d0e0a440074f3b0708796'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6j0118_009-T.yaml, hash: 'sha256:eebc2793e92224f2bc5a8d76a3ee4f14fdcf9f404e9b320e7c78130e49dca504'}
   - {seq: 10, filename: KR6j0118_010-T.yaml, hash: 'sha256:dfcfc4fe26ab45e28e568b1576ab7ca729a4e3d1f4ad1c009fe536f39e790922'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0118_000-T.markers.yaml, hash: 'sha256:15be906fb2b13e466d54307781d540c3b6cd66620cf3fc952f2439b0b0dfb241'}
+  - {seq: 0, role: markers, filename: assets/KR6j0118_000-T.markers.yaml, hash: 'sha256:0a926a44708d1d1b0ac810f226e75cb7d5797b8bad4afcbd50cc4bd54c967e8a'}
   - {seq: 1, role: markers, filename: assets/KR6j0118_001-T.markers.yaml, hash: 'sha256:39f38f95ef1aa5e4d776fd0024a24b1cc5f914f4fcca2220085a23f719a348ad'}
   - {seq: 2, role: markers, filename: assets/KR6j0118_002-T.markers.yaml, hash: 'sha256:f476f21a6ff8a7ab5f9b7433c16827522c28b1417bcb90f392859194bef67e79'}
   - {seq: 3, role: markers, filename: assets/KR6j0118_003-T.markers.yaml, hash: 'sha256:d8c0003484f3d8cdb293f1254bf28896c8a4584289181744596b4efe1518b30c'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0118_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新印大佛頂首楞嚴經序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0118_T_000-mulu-2
     span:
-    - front
+    - body
     - 340
     - 340
   label: 大佛頂如來萬行首楞嚴經序
@@ -203,4 +203,4 @@ table_of_contents:
     大道場經，於灌頂部錄出別行'
   type: juan
   level: 1
-hash: sha256:992e68eb88be8f38e7ba475885951ef8ad653475594117bf07aed4e9948052ba
+hash: sha256:c3faefea5f86446e0112d8ccb5b194ce8207e339e9fa3ff6e3e37c397536b7e8

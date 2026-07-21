@@ -48,7 +48,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0118_000.yaml, hash: 'sha256:abbef7643990c5e1588da31811f81271eac544f96dd20ba640b60eb427849750'}
+  - {seq: 0, filename: KR6j0118_000.yaml, hash: 'sha256:36c8c0ae385f7df47b15ef8199853fbe98975029ab79f0c2190a38ff1aeb3a18'}
   - {seq: 1, filename: KR6j0118_001.yaml, hash: 'sha256:93ff500f2cc0ee5ad368166c73da673a4f34ee52c5e27e20c2809194a60e09e8'}
   - {seq: 2, filename: KR6j0118_002.yaml, hash: 'sha256:7ae289ad7a74c4728087c4d09bd6ff1d2021aae92c13b0063f82e0f60e7e0971'}
   - {seq: 3, filename: KR6j0118_003.yaml, hash: 'sha256:f51ea53f594a71282c8ca74f428ab2b72eff6862d838c16ff6494aa7cfa795f7'}
@@ -60,7 +60,7 @@ assets:
   - {seq: 9, filename: KR6j0118_009.yaml, hash: 'sha256:23e53b7483267e6eb7d52eff13f4665c2901928494834ff827f51cdc4d68a98c'}
   - {seq: 10, filename: KR6j0118_010.yaml, hash: 'sha256:54b15e62130dfac4ec6bc73358d71b81bbca1b0e6663bcacbd69395b7d1b5eee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0118_000.markers.yaml, hash: 'sha256:04b086ede091edd6b504560c1cfc1818743bb9989c883b9b6c36450303498f03'}
+  - {seq: 0, role: markers, filename: assets/KR6j0118_000.markers.yaml, hash: 'sha256:a0be35c8e41c99de1cd7fdb898cfe15dc4dff2f02867f953032f3dbff3da24e3'}
   - {seq: 1, role: markers, filename: assets/KR6j0118_001.markers.yaml, hash: 'sha256:57181e7f981cecdfbaf3201d355f3f14e26053b991464deb14c391d5918bcb41'}
   - {seq: 2, role: markers, filename: assets/KR6j0118_002.markers.yaml, hash: 'sha256:d9ba39d5f66fdbd6f48f1e6e5b93e7292e03a4dd2329f95aa6730a6d16203875'}
   - {seq: 3, role: markers, filename: assets/KR6j0118_003.markers.yaml, hash: 'sha256:248d3e20e9268f4699e72fe72ab2bb2db4622a231a38575434850699a30e3bb2'}
@@ -76,7 +76,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0118_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新印大佛頂首楞嚴經序
@@ -86,7 +86,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0118_T_000-mulu-2
     span:
-    - front
+    - body
     - 340
     - 340
   label: 大佛頂如來萬行首楞嚴經序
@@ -232,7 +232,7 @@ table_of_contents:
     大道場經，於灌頂部錄出別行'
   type: juan
   level: 1
-hash: sha256:16c6969a27046d0516f32c8e46d4e9fc15979a6bf5d1e6810242140f2d92c623
+hash: sha256:6a5fb63de6bc5b746074d66097ba11ae3019784bb651d49757f8b975177a2224
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
